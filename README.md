@@ -1,4 +1,4 @@
-# kaban-board
+# Coderz - Tech Online Platform
 
 ## Project setup
 ```
